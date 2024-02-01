@@ -25,6 +25,12 @@
 		<tr>
 			<th width="20%" bgcolor="yellow">글내용</th>
 			<td width="80%" colspan="3">${getBoard.content}</td>
+			
+			<h3>수정 완</h3>
+				<h3>수정 완</h3>
+					<h3>수정 완</h3>
+						<h3>수정 완</h3>
+							<h3>수정 완</h3>
 		</tr>
 		<tr>
 			<td colspan="4" align="right" bgcolor="yellow">
